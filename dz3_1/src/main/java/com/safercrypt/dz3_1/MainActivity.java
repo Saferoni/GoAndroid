@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         textView = (TextView) findViewById(R.id.textView);
         buttonSave = (Button) findViewById(R.id.buttonSave);
         buttonView = (Button) findViewById(R.id.buttonView);
-        editText = (EditText) findViewById(R.id.editText);
+        editText = (EditText) findViewById(R.id.editText); 
 
         buttonSave.setOnClickListener(new View.OnClickListener() {
             @Override
