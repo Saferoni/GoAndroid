@@ -41,11 +41,32 @@
 
     </LinearLayout>
 
-    <TextView
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Это поле ждет нажатия кнопки Отобразить"
-        android:id="@+id/textView"
-        android:layout_gravity="center"/>
+        android:layout_weight="1">
+
+        <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Это поле отвечает за 1 задание"
+            android:layout_weight="0.5"
+            android:id="@+id/textView"
+            android:layout_gravity="center"/>
+
+            <TextView
+            android:text="это поле отвечает за 2 задание"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:id="@+id/textView2" />
+
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>
