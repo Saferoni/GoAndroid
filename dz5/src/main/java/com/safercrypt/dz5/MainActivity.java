@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         buttonLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (!editViewFirstName.getText().toString().equals("") ||
+                if (!editViewFirstName.getText().toString().equals("") &&
                         !editViewLastName.getText().toString().equals("")) {
                     sharedPrefLogin.setFirstName(editViewFirstName.getText().toString());
                     sharedPrefLogin.setLastName(editViewLastName.getText().toString());
