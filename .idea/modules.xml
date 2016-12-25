@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoAndroid.iml" filepath="$PROJECT_DIR$/GoAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul5_SR/Modul5_SR.iml" filepath="$PROJECT_DIR$/Modul5_SR/Modul5_SR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz1/dz1.iml" filepath="$PROJECT_DIR$/dz1/dz1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz2/dz2.iml" filepath="$PROJECT_DIR$/dz2/dz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz2_1/dz2_1.iml" filepath="$PROJECT_DIR$/dz2_1/dz2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz2_2/dz2_2.iml" filepath="$PROJECT_DIR$/dz2_2/dz2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz3_1/dz3_1.iml" filepath="$PROJECT_DIR$/dz3_1/dz3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz4/dz4.iml" filepath="$PROJECT_DIR$/dz4/dz4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz5/dz5.iml" filepath="$PROJECT_DIR$/dz5/dz5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul6/modul6.iml" filepath="$PROJECT_DIR$/modul6/modul6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul8/modul8.iml" filepath="$PROJECT_DIR$/modul8/modul8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul9/modul9.iml" filepath="$PROJECT_DIR$/modul9/modul9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp/testapp.iml" filepath="$PROJECT_DIR$/testapp/testapp.iml" />
+    </modules>
+  </component>
+</project>

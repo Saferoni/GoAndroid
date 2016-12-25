@@ -3,6 +3,7 @@ package com.safercrypt.dz4;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.text.Layout;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -53,7 +54,7 @@ public class DZ4_1Activity extends AppCompatActivity{
     public TableRow addTableRowWichButton(int value){
         TableRow tableRaw = new TableRow(this);
         for (int i = 0; i < value; i++){
-            tableRaw.addView(buttonSet(new Button(this)));
+            Layout(buttonSet(new Button(this)));
         }
         return tableRaw;
     }

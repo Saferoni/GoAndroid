@@ -23,6 +23,8 @@ public class Test extends AppCompatActivity{
         protected void onCreate(@Nullable Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             //Создам и лайаут из программы а фигли
+
+
             final TableLayout tableLayout = new TableLayout(this);
             tableLayout.setLayoutParams(new TableLayout.LayoutParams(
                     ViewGroup.LayoutParams.MATCH_PARENT,
